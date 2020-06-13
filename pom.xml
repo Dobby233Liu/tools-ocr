@@ -6,7 +6,7 @@
 
     <groupId>com.luooqi</groupId>
     <artifactId>treehole</artifactId>
-    <version>${soft.version}</version>
+    <version>1.2.5</version> <!-- fix warning -->
 
     <properties>
         <soft.version>1.2.5</soft.version>
